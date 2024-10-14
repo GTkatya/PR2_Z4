@@ -6,6 +6,7 @@
 
 Для реализации мне необходимо добавить Прототип метода printInfo:
 void printInfo();
+
 инкапсуляция сохраняется, поскольку доступ к приватным членам класса (fullName, birthYear, education) по-прежнему осуществляется только через методы класса.
 
 ![image](https://github.com/user-attachments/assets/aa394092-8764-4c93-84f6-b9a9bfc3a4e1)
