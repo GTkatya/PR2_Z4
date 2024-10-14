@@ -9,6 +9,11 @@ void printInfo();
 
 инкапсуляция сохраняется, поскольку доступ к приватным членам класса (fullName, birthYear, education) по-прежнему осуществляется только через методы класса.
 
+Вывод в консоль в VS Code: Установлен компилятор minGW, запускала через создание нового терминала. g++ PR2_Z4.cpp -o PR2_Z4 
+
+./PR2_Z4
+
+
 ![image](https://github.com/user-attachments/assets/aa394092-8764-4c93-84f6-b9a9bfc3a4e1)
 
 
